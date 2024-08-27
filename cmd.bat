@@ -1,1 +1,1 @@
-cmd.exe
+powershell.exe
